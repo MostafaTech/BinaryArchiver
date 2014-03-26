@@ -1,0 +1,16 @@
+D:\Projects\Windows\FileArchiver\FileArchiver\bin\Debug\FileArchiver.dll
+D:\Projects\Windows\FileArchiver\FileArchiver\bin\Debug\FileArchiver.pdb
+D:\Projects\Windows\FileArchiver\FileArchiver\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Windows\FileArchiver\FileArchiver\obj\Debug\FileArchiver.dll
+D:\Projects\Windows\FileArchiver\FileArchiver\obj\Debug\FileArchiver.pdb
+D:\Projects\Windows\FileArchiver\FileArchiver\obj\Debug\GenerateResource.read.1.tlog
+D:\Projects\Windows\FileArchiver\FileArchiver\obj\Debug\GenerateResource.write.1.tlog
+D:\Projects\Windows\FileArchiver\FileArchiver\obj\Debug\MTech.FileArchiver.Resources.FileTypes.resources
+D:\Projects\Contracts\FileArchiver\FileArchiver\bin\Debug\FileArchiver.dll
+D:\Projects\Contracts\FileArchiver\FileArchiver\bin\Debug\FileArchiver.pdb
+D:\Projects\Contracts\FileArchiver\FileArchiver\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Contracts\FileArchiver\FileArchiver\obj\Debug\MTech.FileArchiver.Resources.FileTypes.resources
+D:\Projects\Contracts\FileArchiver\FileArchiver\obj\Debug\GenerateResource.read.1.tlog
+D:\Projects\Contracts\FileArchiver\FileArchiver\obj\Debug\GenerateResource.write.1.tlog
+D:\Projects\Contracts\FileArchiver\FileArchiver\obj\Debug\FileArchiver.dll
+D:\Projects\Contracts\FileArchiver\FileArchiver\obj\Debug\FileArchiver.pdb

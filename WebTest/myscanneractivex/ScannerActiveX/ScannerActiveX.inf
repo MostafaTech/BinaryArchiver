@@ -1,0 +1,24 @@
+[version]
+    signature="$CHICAGO$"
+    AdvancedINF=2.0
+	  
+[Add.Code]
+     ScannerActiveX.ocx=ScannerActiveX.ocx
+     ChilkatUpload.dll=ChilkatUpload.dll
+	
+[Deployment]
+    InstallScope=user|machine
+	
+[ScannerActiveX.ocx]
+    file-win32-x86=thiscab
+    clsid={A2DFD591-7731-4C44-A891-D2A89C0397AF}
+    FileVersion=1,0,0,0
+    RegisterServer=yes
+    RedirectToHKCU=yes
+
+[ChilkatUpload.dll]
+    file-win32-x86=thiscab
+    clsid={B055E7B6-06F0-4726-A0E5-C32773E635A7}
+    FileVersion=9,4,1,0
+    RegisterServer=yes
+    RedirectToHKCU=yes

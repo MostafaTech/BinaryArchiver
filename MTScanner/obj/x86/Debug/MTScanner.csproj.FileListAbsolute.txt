@@ -1,0 +1,11 @@
+D:\Projects\Contracts\FileArchiver\MTScanner\bin\Debug\MTScanner.dll
+D:\Projects\Contracts\FileArchiver\MTScanner\bin\Debug\MTScanner.pdb
+D:\Projects\Contracts\FileArchiver\MTScanner\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Contracts\FileArchiver\MTScanner\obj\x86\Debug\MTScanner.MTScannerUI.resources
+D:\Projects\Contracts\FileArchiver\MTScanner\obj\x86\Debug\MTScanner.Properties.Resources.resources
+D:\Projects\Contracts\FileArchiver\MTScanner\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Contracts\FileArchiver\MTScanner\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Contracts\FileArchiver\MTScanner\obj\x86\Debug\MTScanner.dll
+D:\Projects\Contracts\FileArchiver\MTScanner\obj\x86\Debug\MTScanner.pdb
+D:\Projects\Contracts\FileArchiver\MTScanner\obj\x86\Debug\Interop.WIA.dll
+D:\Projects\Contracts\FileArchiver\MTScanner\obj\x86\Debug\MTScanner.csproj.ResolveComReference.cache

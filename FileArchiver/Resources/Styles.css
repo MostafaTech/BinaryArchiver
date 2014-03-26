@@ -1,0 +1,22 @@
+﻿.MTFileArchiverContainer .item { width:100px; float:right; margin:0px 0px 10px 10px; padding:10px; border:1px solid #CCC; background-color:#EEE; }
+.MTFileArchiverContainer img { border:0px; }
+.MTFileArchiverContainer .icon { width:16px; height:16px; display:inline-block; }
+.MTFileArchiverContainer .delete { background-image: url(<%= WebResource("MTech.FileArchiver.Resources.delete.png") %>); }
+.MTFileArchiverContainer .down { background-image: url(<%= WebResource("MTech.FileArchiver.Resources.down.png") %>); }
+.MTFileArchiverContainer .btnUpload
+{
+	width:120px; height:28px; display:inline-block; 
+	background-image: url(<%= WebResource("MTech.FileArchiver.Resources.btnUpload.png") %>);
+}
+.MTFileArchiverContainer .btnScan
+{
+	width:160px; height:28px; display:inline-block; 
+	background-image: url(<%= WebResource("MTech.FileArchiver.Resources.btnScan.png") %>);
+}
+.MTFileArchiverContainer .access-denied
+{
+	width:48px; height:48px; display:inline-block; 
+	background-image: url(<%= WebResource("MTech.FileArchiver.Resources.access-denied.png") %>);
+}
+.MTFileArchiverContainer .msg { font-family:Tahoma; font-size:13px; }
+

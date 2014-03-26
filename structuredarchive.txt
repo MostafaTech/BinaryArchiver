@@ -1,0 +1,18 @@
+﻿public void addStructuredArchive(string archivefile, string subfolder, string filename)
+        {
+            MTech.FileArchiver.FileArchiverCore archiver = new MTech.FileArchiver.FileArchiverCore(archivefile);
+            int zemanatfilescount = 1;
+            for (int i = 0; i < archiver.Files.Length; i++)
+                if (archiver.Files[i].Name.StartsWith(subfolder + "_"))
+                    zemanatfilescount++;
+            archiver.AddFile(filename, subfolder + "_" + zemanatfilescount.ToString() + ".jpg");
+        }
+        public string readStructuredArchiveFiles(string archivefile, string subfolder)
+        {
+            string result = "";
+            MTech.FileArchiver.FileArchiverCore archiver = new MTech.FileArchiver.FileArchiverCore(archivefile);
+            for (int i = 0; i < archiver.Files.Length; i++)
+                if (archiver.Files[i].Name.StartsWith(subfolder + "_"))
+                    result += archiver.Files[i].Name;
+            return result;
+        }
